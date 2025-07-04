@@ -1,0 +1,8 @@
+streamlit
+joblib
+numpy
+pillow
+scikit-learn
+pandas
+matplotlib
+xgboost==2.1.4
