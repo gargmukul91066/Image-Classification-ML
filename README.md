@@ -31,7 +31,7 @@ The dataset used in this project is hosted on Google Drive.
 1. Open the above link and **add the folder as a shortcut to your Google Drive**.
 2. In the Colab notebook, **run the following to mount your drive**:
 
-``python
+```python
 from google.colab import drive
 drive.mount('/content/drive')
 
@@ -57,7 +57,7 @@ drive.mount('/content/drive')
 
 To run the **Streamlit app locally**, use the following commands:
 
-``bash
+```bash
 pip install -r requirements.txt
 streamlit run app.py
 
