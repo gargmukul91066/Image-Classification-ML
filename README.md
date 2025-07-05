@@ -61,6 +61,19 @@ To run the **Streamlit app locally**, use the following commands:
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## 📸 App Demo
+
+Here’s a visual preview of the **Leaf Disease Classifier** in action:
+
+<p align="center">
+  <img src="demo.png" width="700"/>
+  <br>
+  <em> Prediction result with confidence scores using the trained Random Forest model</em>
+</p>
+
+
+
 ##  License
 This project is licensed under the MIT License.
 
