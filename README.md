@@ -57,6 +57,11 @@ drive.mount('/content/drive')
 
 To run the **Streamlit app locally**, use the following commands:
 
+```
+git clone https://github.com/gargmukul91066/Image-Classification-ML.git
+cd Image-Classification-ML
+```
+
 ```bash 
 pip install -r requirements.txt
 streamlit run app.py
