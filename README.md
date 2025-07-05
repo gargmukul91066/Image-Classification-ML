@@ -66,6 +66,6 @@ This project is licensed under the MIT License.
 
 
 ## Acknowledgements
-Dataset: Plant Pathology 2020 - FGVC7
+Dataset: [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7)
 
 
