@@ -62,12 +62,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📸 App Demo
+## App Demo
 
 Here’s a visual preview of the **Leaf Disease Classifier** in action:
 
 <p align="center">
-  <img src="demo.png" width="700"/>
+  <img src="assests/demo.png" width="700"/>
   <br>
   <em> Prediction result with confidence scores using the trained Random Forest model</em>
 </p>
