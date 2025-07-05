@@ -15,7 +15,7 @@ class_names = ['healthy', 'multiple_diseases', 'rust', 'scab']
 @st.cache_resource
 def load_model():
     try:
-        st.info("📦 Loading model...")
+        st.info("Loading model...")
         model = joblib.load("final_rf_model.pkl")
         st.success(" Model loaded successfully!")
         return model
