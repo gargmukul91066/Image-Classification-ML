@@ -6,7 +6,7 @@ from PIL import Image
 import os
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Leaf Disease Classifier", page_icon="🌿", layout="centered")
+st.set_page_config(page_title="Leaf Disease Classifier", layout="centered")
 
 # Class Labels 
 class_names = ['healthy', 'multiple_diseases', 'rust', 'scab']
